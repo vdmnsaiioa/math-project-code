@@ -1,1 +1,2 @@
 # math-project-code
+In the code provided we calculated the constants $C_1 C_2 C_3 D_1 D_2 D_3$ by inverting the coefficent matrix and multiplying with the constants on the right hand side of the equations as defined in the report. We took the result and for each constant used the sympy simplify function on the difference between our result and the one provided in the script, proving that for each the result is 0. Note that the python output is very large.
